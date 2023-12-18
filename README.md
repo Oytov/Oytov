@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Oytov
+- I like the simplicity of C
